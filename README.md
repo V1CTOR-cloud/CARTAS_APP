@@ -2,7 +2,7 @@
 
 :cowboy_hat_face: Hi, Welcome to my cards mobile App
 
-:rocket: ## Getting Started
+## :rocket: Getting Started :rocket:
 
 
 
