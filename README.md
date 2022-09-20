@@ -2,6 +2,12 @@
 
 :cowboy_hat_face: Hi, Welcome to my cards mobile App
 
+I made this application because we wanted to play drunken games with some friends,
+but there was a problem... Oops, we didn't have any cards so I decided to program one.
+
+It's just a mobile App to get drunk with friends, I hope you enjoy it.
+
+
 ## :rocket: Getting Started :rocket:
 
 
